@@ -9,3 +9,8 @@ I also want to create an editor tool. This could be an in-engine tool that uses 
 
 ## Why
 I want to try my hand a writing a game engine of some sort. The primary goal is to help me grow as a developer.
+
+## What I'm currently working on
+I am currently working on:
+ - [ ] Creating design documents for engine architecture
+ - [ ] Creating a window with SDL
